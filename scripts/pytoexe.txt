@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --windowed --hidden-import=tkinter --hidden-import=scipy --hidden-import=matplotlib --hidden-import=fixtk --hidden-import=scipy.integrate C:\Users\David\PycharmProjects\Comets\N.py
